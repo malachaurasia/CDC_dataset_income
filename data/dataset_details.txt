@@ -1,8 +1,11 @@
 Two datasets have been combined to understand the healthcare equity status by income in united states. 
   
 1.  Data published by CDC for better health census tract year 2023. Published in 2024
-  
+
 2.  Per capita income data in united states. 
+
+United states per capita income chart, https://en.wikipedia.org/wiki/List_of_United_States_counties_by_per_capita_income
+Simone Roy. 27 May 23, CDC 500 cities/Places dataset analysis, Rpubs Studio, https://rpubs.com/sdr691/geog588lab3
 
 Alongwith exploratory and descriptive analysis in python, a tableau dashborad was also created. It is hosted on Tableau public.
   
